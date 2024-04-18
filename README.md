@@ -39,6 +39,11 @@ python app.py
 - textdistance: A Python library for comparing and matching strings.
 - Jinja2: A modern and designer-friendly templating engine for Python.
 
+## Screenshot
+
+![Screenshort of autocorrect project](https://github.com/DanejSakshi13/autocorrect-using-python-flask/blob/main/image.png)
+
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make your changes, and submit a pull request.
